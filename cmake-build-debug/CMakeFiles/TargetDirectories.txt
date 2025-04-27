@@ -1,0 +1,3 @@
+C:/Users/cash/CLionProjects/image-processing-gr7/cmake-build-debug/CMakeFiles/image_processing_gr7.dir
+C:/Users/cash/CLionProjects/image-processing-gr7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cash/CLionProjects/image-processing-gr7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
